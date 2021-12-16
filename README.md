@@ -1,5 +1,6 @@
 # product_mongo
 day_38
+PLEASE VIEW THE CODE BY CLICKING RAW ......
 
  >use product
 >db.product.insertMany(
